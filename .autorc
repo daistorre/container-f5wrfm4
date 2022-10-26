@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "daistorre",
+  "repo": "container-f5wrfm4",
+  "name": "daistorre",
+}
